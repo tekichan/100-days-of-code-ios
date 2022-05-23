@@ -15,3 +15,11 @@
 **Thoughts**: View component statements look similar to other frontend frameworks like ReactJS. Closure looks like Lambda in Java or Python. EnvironmentObject sounds very new to me.
 
 **Link to work**: (tbc)
+
+## Day 2: 23 May 2022
+
+**Today's Progress**: How to draw shapes with CGPoint and customize animation effects.
+
+**Thoughts**: Drawing with CGPoints seems like drawing SVG. The animation effect customization is powerful to fine tune given animations. The tutorial's hint to pin the main view while adjusting animations in sub-view is useful.
+
+**Link to work**: (tbc)
