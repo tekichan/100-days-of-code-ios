@@ -10,7 +10,7 @@
 
 ## Day 1: 22 May 2022
 
-**Today's Progress**: View components, Swift modifiers, how to bind data and state
+**Today's Progress**: `View` components, Swift modifiers, how to bind data and state
 
 **Thoughts**: View component statements look similar to other frontend frameworks like ReactJS. Closure looks like Lambda in Java or Python. EnvironmentObject sounds very new to me.
 
@@ -18,8 +18,16 @@
 
 ## Day 2: 23 May 2022
 
-**Today's Progress**: How to draw shapes with CGPoint and customize animation effects.
+**Today's Progress**: How to draw shapes with `CGPoint` and customize animation effects.
 
 **Thoughts**: Drawing with CGPoints seems like drawing SVG. The animation effect customization is powerful to fine tune given animations. The tutorial's hint to pin the main view while adjusting animations in sub-view is useful.
+
+**Link to work**: (tbc)
+
+## Day 3: 24 May 2022
+
+**Today's Progress**: `TabView`, `ScrollView`, `NavigationView`, `NavigationLink`, `EditButton`, `@Environment`
+
+**Thoughts**: Modifier is a powerful tool in Swift. A developer should understand deeply SwiftUI components such as EditButton. They can perform specific functions themselves and developers do not need to implement the functions on top.
 
 **Link to work**: (tbc)
