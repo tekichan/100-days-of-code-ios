@@ -39,3 +39,11 @@
 **Thoughts**: UIKit is a more mature framework in iOS and has been widely used for long. Pleased to know how to make SwiftUI and UIKit work together.
 
 **Link to work**: [Landmarks](./Landmarks/)
+
+## Day 5: 26 May 2022
+
+**Today's Progress**: Started [100 Days of SwiftUI in Hacking With Swift](https://www.hackingwithswift.com/100/swiftui)
+
+**Thoughts**: I revised data types: Int, Double, String, Bool, Array, Dictionary and Set. They are similar to those in other languages such as Python. They are also improved, e.g. default in Dictionary, to help in common scenarios.
+
+**Link to work**: N/A
