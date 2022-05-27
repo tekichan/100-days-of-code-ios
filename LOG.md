@@ -47,3 +47,11 @@
 **Thoughts**: I revised data types: Int, Double, String, Bool, Array, Dictionary and Set. They are similar to those in other languages such as Python. They are also improved, e.g. default in Dictionary, to help in common scenarios.
 
 **Link to work**: N/A
+
+## Day 6: 27 May 2022
+
+**Today's Progress**: type annotation, if, switch, ternary, for, while, function and error
+
+**Thoughts**: Although most features are similar to other languages, Swift has its unique syntax and handling.
+
+**Link to work**: N/A
