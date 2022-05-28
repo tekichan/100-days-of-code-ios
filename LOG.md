@@ -55,3 +55,11 @@
 **Thoughts**: Although most features are similar to other languages, Swift has its unique syntax and handling.
 
 **Link to work**: N/A
+
+## Day 7: 28 May 2022
+
+**Today's Progress**: function, closure and struct
+
+**Thoughts**: Closure is one of powerful tools in Swift, similar to callback in JS or lambda in Python but has more features.
+
+**Link to work**: N/A
