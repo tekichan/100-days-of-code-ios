@@ -63,3 +63,11 @@
 **Thoughts**: Closure is one of powerful tools in Swift, similar to callback in JS or lambda in Python but has more features.
 
 **Link to work**: N/A
+
+## Day 8: 30 May 2022
+
+**Today's Progress**: class, protocol and optional
+
+**Thoughts**: Class and Optional exist in Java. Protocol is similar to Interface. A lot of syntax improve efficiency and readability.
+
+**Link to work**: N/A
