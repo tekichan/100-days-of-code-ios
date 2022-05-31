@@ -71,3 +71,11 @@
 **Thoughts**: Class and Optional exist in Java. Protocol is similar to Interface. A lot of syntax improve efficiency and readability.
 
 **Link to work**: N/A
+
+## Day 9: 31 May 2022
+
+**Today's Progress**: Form, Section, TextField, Formatter, Picker, @ForcusState and two-way binding
+
+**Thoughts**: Two-way binding is powerful. SwiftUI simplies UI development a lot.
+
+**Link to work**: [WeSplit](./WeSplit/)
