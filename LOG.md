@@ -79,3 +79,11 @@
 **Thoughts**: Two-way binding is powerful. SwiftUI simplies UI development a lot.
 
 **Link to work**: [WeSplit](./WeSplit/)
+
+## Day 10: 1 Jun 2022
+
+**Today's Progress**: ZStack, Color, Image, Gradient structs and alert
+
+**Thoughts**: LinearGradient, AngularGradient and RadialGradient make more colorful to the background. Various modifiers provide various functions, such as image shape and alert popup.
+
+**Link to work**: [WeSplit](./GuessTheFlag/)
