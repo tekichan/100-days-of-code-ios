@@ -87,3 +87,11 @@
 **Thoughts**: LinearGradient, AngularGradient and RadialGradient make more colorful to the background. Various modifiers provide various functions, such as image shape and alert popup.
 
 **Link to work**: [WeSplit](./GuessTheFlag/)
+
+## Day 11: 2 Jun 2022
+
+**Today's Progress**: Frame, Modifier Ordering, Conditional Modifier by Ternary, Environment Modifier vs Regular Modifier, Set View as Properties, View Composition, Custom Modifier and Custom Container.
+
+**Thoughts**: There are various customisation from Modifier, View and Container. They allow developers to fine tune UI components in a modularised design.
+
+**Link to work**: [WeSplit](./CustomExample/)
