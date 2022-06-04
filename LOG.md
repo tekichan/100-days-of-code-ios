@@ -94,4 +94,12 @@
 
 **Thoughts**: There are various customisation from Modifier, View and Container. They allow developers to fine tune UI components in a modularised design.
 
-**Link to work**: [WeSplit](./CustomExample/)
+**Link to work**: [CustomExample](./CustomExample/)
+
+## Day 12: 4 Jun 2022
+
+**Today's Progress**: Building a Rock-Paper-Scissors app with skills learnt before.
+
+**Thoughts**: It is straightforward to put components together, but it needs more detail or lesson learnt how to adjust each component like Text and Button to look more beautiful.
+
+**Link to work**: [RockPaperScissors](./RockPaperScissors/)
