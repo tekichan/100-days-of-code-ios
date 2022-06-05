@@ -103,3 +103,11 @@
 **Thoughts**: It is straightforward to put components together, but it needs more detail or lesson learnt how to adjust each component like Text and Button to look more beautiful.
 
 **Link to work**: [RockPaperScissors](./RockPaperScissors/)
+
+## Day 13: 5 Jun 2022
+
+**Today's Progress**: Building a Bed-time Recommendation app with DatePicker, Stepper, Picker and CoreML
+
+**Thoughts**: Create ML is very easy to use with a friendly user-interface. Developers can import data, select target and features and output trained model back to XCode.
+
+**Link to work**: [BetterRest](./BetterRest/)
