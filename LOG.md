@@ -111,3 +111,11 @@
 **Thoughts**: Create ML is very easy to use with a friendly user-interface. Developers can import data, select target and features and output trained model back to XCode.
 
 **Link to work**: [BetterRest](./BetterRest/)
+
+## Day 14: 6 Jun 2022
+
+**Today's Progress**: Building a Word Scramble game app with List, onSubmit, onAppear, withAnimation, String methods and UITextChecker
+
+**Thoughts**: The modifier methods make interactions much easy. withAnimation makes the app live. UITextChecker which belongs to UIKit can be used in Swift too.
+
+**Link to work**: [WordScramble](./WordScramble/)
