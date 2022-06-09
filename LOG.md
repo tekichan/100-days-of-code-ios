@@ -119,3 +119,11 @@
 **Thoughts**: The modifier methods make interactions much easy. withAnimation makes the app live. UITextChecker which belongs to UIKit can be used in Swift too.
 
 **Link to work**: [WordScramble](./WordScramble/)
+
+## Day 15: 9 Jun 2022
+
+**Today's Progress**: scaleEffect, opacity, onAppear, Int.animation, rotation3DEffect, interpolatingSpring, gesture, transition, ViewModifier, AnyTransition and onTapGesture
+
+**Thoughts**: Animation is one of powerful features of SwiftUI. It makes iOS look much unique in appearance than others. It also emphasises how GUI design is important in developing an application.
+
+**Link to work**: [CustomExample2](./CustomExample2/)
