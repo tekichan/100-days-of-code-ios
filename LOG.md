@@ -127,3 +127,11 @@
 **Thoughts**: Animation is one of powerful features of SwiftUI. It makes iOS look much unique in appearance than others. It also emphasises how GUI design is important in developing an application.
 
 **Link to work**: [CustomExample2](./CustomExample2/)
+
+## Day 16: 12 Jun 2022
+
+**Today's Progress**: applied previous learnt components to make up a Times Table Quiz app. The pictures were downloaded from [https://kenney.nl/](https://kenney.nl/)
+
+**Thoughts**: UX Design is quite a knowledge! The job becomes more achievable when you start with simple components then you enhance each component with images, effects and animations step by step. 
+
+**Link to work**: [TimesTableQuiz](./TimesTableQuiz/)
