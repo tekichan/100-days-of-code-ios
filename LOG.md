@@ -135,3 +135,11 @@
 **Thoughts**: UX Design is quite a knowledge! The job becomes more achievable when you start with simple components then you enhance each component with images, effects and animations step by step. 
 
 **Link to work**: [TimesTableQuiz](./TimesTableQuiz/)
+
+## Day 17: 14 Jun 2022
+
+**Today's Progress**: class as a collection of @Published for struct items. Use didSet to save entity items. Use init to initiate values of entity items. @StateObject and @ObservedObject to bind with class of a collection of @Published elements. Use @Environment(\.dismiss) to dismiss a modal view. Also sheet and onDelete which simplify operation of modal views and list items.
+
+**Thoughts**: The communications amongst views can be implemented with various annotations including @Binding, @StateObject,  @ObservedObject and @Environment. The variety is subject to the scope and the type of targets (struct or class). 
+
+**Link to work**: [iExpense](./iExpense/)
