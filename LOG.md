@@ -151,3 +151,11 @@
 **Thoughts**: NavigationView and NavigationLink allow us to switch different screen views. GridItem list items in a gridded style. By extension to Bundle, you can easily read JSON files into arrays. After drafting the app in a single file, you can separate various view components into multiple files then fine tune each component.
 
 **Link to work**: [Moonshot](./Moonshot/)
+
+## Day 19: 22 Jun 2022
+
+**Today's Progress**: ImagePaint, Shape, Path, CGAffineTransform, drawingGroup, how to make a single property Animatable and AnimatablePair for animations of two properties.
+
+**Thoughts**: Drawing components can work with Form components together. Drawing relying on Path can also be adjusted by the frame size.
+
+**Link to work**: [Drawing](./Drawing/)
