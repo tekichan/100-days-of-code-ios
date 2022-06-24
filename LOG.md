@@ -159,3 +159,11 @@
 **Thoughts**: Drawing components can work with Form components together. Drawing relying on Path can also be adjusted by the frame size.
 
 **Link to work**: [Drawing](./Drawing/)
+
+## Day 20: 22 Jun 2022
+
+**Today's Progress**: Codable, Hashable, Identifiable, ObservableObject, @Published, @ObservedObject, @Environment(\.dismiss) and .sheet.
+
+**Thoughts**: This is another build from scratch exercise. Although most functions can be implemented, a bug cannot be resolved: When a button is pressed, it will change two variables. One is to show `.sheet` and the other is to change the sheet's object. The former is fine to show the sheet but the latter is not effective during showing the sheet until the other object is selected. If the variable is shown somewhere such as Text, the problem is gone. It leads me next time learn more how to handle @State and `.sheet`.
+
+**Link to work**: [HabitTracking](./HabitTracking/)
