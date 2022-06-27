@@ -167,3 +167,11 @@
 **Thoughts**: This is another build from scratch exercise. Although most functions can be implemented, a bug cannot be resolved: When a button is pressed, it will change two variables. One is to show `.sheet` and the other is to change the sheet's object. The former is fine to show the sheet but the latter is not effective during showing the sheet until the other object is selected. If the variable is shown somewhere such as Text, the problem is gone. It leads me next time learn more how to handle @State and `.sheet`.
 
 **Link to work**: [HabitTracking](./HabitTracking/)
+
+## Day 21: 27 Jun 2022
+
+**Today's Progress**: ObservableObject, Codable, CodingKey, disabled, trimmingCharacters, AsyncImage, encode, URLRequest, Task, await and async.
+
+**Thoughts**: With ObservableObject, a commonly used model can be shared with multiple views. With URLRequest, await and async, RESTful API can be used to submit and retrieve data via the Internet.
+
+**Link to work**: [CupcakeCorner](./CupcakeCorner/)
